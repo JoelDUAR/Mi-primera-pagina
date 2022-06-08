@@ -1,0 +1,16 @@
+16 elementos que se escribe:
+
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+0= más negro;
+F= más blanco;
+- -  - -  - - 
+r r g g b b
+r = red;
+g=green;
+b=blue;
+
+#000000=Negro;
+#FFFFFF=Blanco
+##FF0000=Rojo
+
+Esto es las siglas RGB o rgb();
